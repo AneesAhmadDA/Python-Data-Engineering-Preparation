@@ -1,0 +1,5 @@
+Apache Hadoop is a framework for distributed storage.
+HDFS stands for Hadoop Distributed File System.
+The NameNode manages filesystem metadata.
+DataNodes store actual data blocks.
+HDFS supports fault tolerance through replication.
